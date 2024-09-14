@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm currently a senior intelligent science and technology student  
-- - 🌱 I'm currently learning Image processing and Deepfake related projects.
+- 🌱 I'm currently learning Image processing and Deepfake related projects.
 - 📫 How to reach me: princesslmj@outlook.com
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
