@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I'm currently a senior intelligent science and technology student  
 - 🌱 I'm currently learning Image processing and Deepfake related projects.
 - 📫 How to reach me: princesslmj@outlook.com
-- Look my ![bento.me/lprincess](https://bento.me/lprincess)
+- Look my [bento.me/lprincess](https://bento.me/lprincess)
 
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
